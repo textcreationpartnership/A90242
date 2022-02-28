@@ -1,0 +1,1192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevv Lambeth fayre newly consecrated and presented by the Pope himselfe, cardinals, bishops, Iesuits, &amp;c. VVherein all Romes reliques are set at sale, with the old fayre corrected and enlarged, opening and vending the whole mistery of iniquity. By Richard Overton. VVith remarkable annotations declaring under what pope, and in what yeare of our Lord every relique and ceremonie came into the Church.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90242</idno>
+            <idno type="STC">Wing O631A</idno>
+            <idno type="STC">Thomason E138_16</idno>
+            <idno type="STC">ESTC R16194</idno>
+            <idno type="EEBO-CITATION">99859983</idno>
+            <idno type="PROQUEST">99859983</idno>
+            <idno type="VID">112088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112088)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E138[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevv Lambeth fayre newly consecrated and presented by the Pope himselfe, cardinals, bishops, Iesuits, &amp;c. VVherein all Romes reliques are set at sale, with the old fayre corrected and enlarged, opening and vending the whole mistery of iniquity. By Richard Overton. VVith remarkable annotations declaring under what pope, and in what yeare of our Lord every relique and ceremonie came into the Church.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.O. and G.D.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>A variant of the edition with "New" as first word of title and "1641" in imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Humor --  Early works to 1800.</term>
+               <term>Relics and reliquaries --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112088:1"/>
+            <pb facs="tcp:112088:1" rendition="simple:additions"/>
+            <p>NEVV LAMBETH FAYRE NEWLY CONSECRATED AND PRESENTED BY THE POPE HIMSELFE, CARDINALS, BISHOPS, IESVITS, &amp;c.</p>
+            <p>VVherein all <hi>Romes Reliques</hi> are ſet at ſale, with the old <hi>Fayre</hi> Corrected and enlarged, Opening and Vending the whole Miſtery of Iniquity.</p>
+            <p>
+               <hi>By Richard Overton.</hi>
+            </p>
+            <p>VVith remarkable <hi>Annotations</hi> declaring under what <hi>Pope,</hi> and in what yeare of our LORD every Relique and <hi>Ceremonie</hi> came into the Church.</p>
+            <p>
+               <hi>LONDON,</hi> Printed By <hi>R. O.</hi> and <hi>G. D.</hi> 1642.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:112088:2"/>
+            <head>To the READER.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>His <hi>Veſſell</hi> once hath lane'd into the <hi>Maine</hi>
+               </l>
+               <l>But being landed, muſt to <hi>Sea</hi> againe,</l>
+               <l>Her decks repair'd, and every place beſide</l>
+               <l>Shee'l venture once more <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the falling <hi>Tyde</hi>
+               </l>
+               <l>Fraught with more <hi>Reliques,</hi> the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhe was before</l>
+               <l>Such as <hi>Romes Conclave</hi> long hath kept in ſtore</l>
+               <l>Ship-ſplitting Rocks, with fearce tempeſtious wind</l>
+               <l>Shee dreads not (<hi>Reader</hi>) if thou be'ſt but kind</l>
+               <l>If <hi>Boreas</hi> ſtorme, and all the <hi>Winds</hi> beſide,</l>
+               <l>Thy kind acceptance will allay their pride,</l>
+               <l>be not prejudicate, but if thine eye</l>
+               <l>Pry out their faults, be pleaſ'd to paſſe them by.</l>
+            </lg>
+            <lg>
+               <l>Thus then, ſhe ventures, to preſent her <hi>Ware</hi>
+               </l>
+               <l>And bids you welcome to<g ref="char:punc">▪</g> 
+                  <hi>New Lambeth-Fayre.</hi>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112088:2"/>
+            <head>NEW LAMBETH-FAYRE, Opening and Vending the whole Miſtery of Iniquitie.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>He <hi>Pope</hi> of <hi>Rome</hi> to heare the great diſtreſſe</l>
+               <l>Of our <hi>Lord Biſhops,</hi> and their bad ſucceſſe</l>
+               <l>At the late <hi>Fayre</hi> of <hi>Lambeth</hi> was perplext,</l>
+               <l>And at their trading there was highly vext,</l>
+               <l>That in a fury (poſting thence amaine,)</l>
+               <l>He came to conſecrate the <hi>Fayre</hi> againe,</l>
+               <l>With <note n="*" place="margin">
+                     <hi>Pope Silveſter</hi> the firſt appoin<g ref="char:EOLhyphen"/>ted the Colledg of <hi>Cardinalls Anno,</hi> 315. <hi>Pope Marcellus</hi> ordained 16. in <hi>Rome</hi> to baptize converts from Paganiſme, and for the buriall of <hi>Martyrs.</hi>
+                  </note> 
+                  <hi>Cardinals</hi> (puft up with <hi>Roman</hi> pride)</l>
+               <l>And lofty <hi>Prelats,</hi> and a world beſide</l>
+               <l>Of <hi>Ieſuits,</hi> Yea, <hi>Hells</hi> Infernall Gate</l>
+               <l>Was ſet wide open, to advance their ſtate,</l>
+               <l>From whoſe black ſulpherous ſmoak, there did ariſe</l>
+               <l>
+                  <hi>Legions</hi> of <hi>Locuſts</hi> (darkning all the skyes)</l>
+               <l>Thouſand of thouſands, <hi>Monks</hi> and <hi>Fryers</hi> ſtore</l>
+               <l>And <hi>Virgin Nuns,</hi> came to attend the WHORE,</l>
+               <l>'Tis end<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe to expreſſe, ſuch was the <hi>Traine</hi>
+                  <note place="margin">The Order of <hi>Ieſuites</hi> was the Invention of <hi>Io<g ref="char:EOLhyphen"/>hannes Columbi<g ref="char:EOLhyphen"/>nus</hi> in <hi>Sc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>na</hi> a City of <hi>Hethruria Anno,</hi> 1368.</note>
+               </l>
+               <l>That did preſſe after with their might and maine:</l>
+               <l>Such Troops of <hi>Black-coats</hi> came unto this <hi>Fayre,</hi>
+               </l>
+               <l>Which caſt a ſable darkneſſe on the aire,</l>
+               <l>Which made my <hi>Muſe,</hi> to view that ghaſtly ſight,</l>
+               <l>To be afraid they'd turne the day to Night:<note place="margin">* The Order of <hi>Monks</hi> firſt raiſed by <hi>Baſili<g ref="char:EOLhyphen"/>us Magnus</hi> Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Ceſaria</hi> in <hi>Cappadocea Anno,</hi> 389.</note>
+               </l>
+               <l>A numerous <hi>Fleet</hi> of <hi>Ships</hi> were richly fraught,</l>
+               <l>And all with ſafety to the <hi>Land</hi> vere brought,</l>
+               <l>With ſacred <hi>Reliques, Trinkets</hi> long before</l>
+               <l>Expel'd this <hi>Iland,</hi> now were brought a ſhore</l>
+               <l>Which being done; the <hi>Pope</hi> did then prepare</l>
+               <l>Himſelfe, again to <hi>conſecrate</hi> the <hi>Fayre:</hi>
+               </l>
+               <l>The ſtrange <hi>Seaven headed Beaſt</hi> pranc'd through the <hi>Town</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:112088:3"/>Having ten <hi>Hornes,</hi> and every <hi>Horne</hi> a <hi>Crowne,</hi>
+               </l>
+               <l>And on his back his <hi>Holineſſe</hi> he bore</l>
+               <l>Which was an <hi>Emblem</hi> of great <hi>Babells</hi> WHORE;</l>
+               <l>The <hi>Cardinalls, Prieſts, Prelats,</hi> and the reſt</l>
+               <l>Rode in ſtate after (<hi>wondring at the Beaſt;</hi>)</l>
+               <l>Who as he rode along did <hi>conſecrate</hi>
+               </l>
+               <l>The <hi>Fayre</hi> againe to more propitious <hi>Fate:</hi>
+               </l>
+               <l>Which being done, and all their <hi>Booths</hi> were made,</l>
+               <l>With all things fitting for that holy <hi>Trade,</hi>
+               </l>
+               <l>Vpon their <hi>Booths</hi> and <hi>Stalls</hi> for feare of evill,</l>
+               <l>Were <hi>Croſſes</hi> ſet to ſcare away the <hi>Divell.</hi>
+               </l>
+               <l>The <hi>Cryer</hi> then commanded did proclame</l>
+               <l>The <hi>Fayre</hi> again, thus in his <hi>Holy Name.</hi>
+               </l>
+            </lg>
+            <q>
+               <p rend="italic">O╌yes — O╌yes — O╌yes.</p>
+               <p>IT is decreed, ordered, and this day commanded by the Councell of all the holy<note place="margin">
+                     <hi>(a) Pope Ben<g ref="char:EOLhyphen"/>net</hi> the 2. obtai<g ref="char:EOLhyphen"/>ned the ſupre<g ref="char:EOLhyphen"/>macy of <hi>Empe<g ref="char:EOLhyphen"/>rour Conſtantine</hi> and to be <hi>Chriſts Vicar,</hi> St. <hi>Peters</hi> Succeſſor &amp;c. <hi>Anno,</hi> 667.</note> Church, firſt of our moſt holy Father of Fathers <hi>a</hi> St. <hi>Peters</hi> Succeſſor, <hi>Chriſts</hi> Vicar, our high <hi>Prieſt,</hi> chiefe <hi>Pontifex</hi> and <hi>Pope</hi> of <hi>Rome,</hi> his <hi>Cardinalls,</hi> Arch-Biſhops and Biſhops, and of all the Clergie of the Holy Church, that (in the name of his Holineſſe, and of the bleſſed Virgin <hi>Mary,</hi> and of all the he and ſhe <hi>Saints</hi>) forth with this holy and ſpirituall <hi>Fayre</hi> (thus conſecrated) ſhall begin, wherin all ſorts of ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red Ware and <hi>Babaloniſh Reliques</hi> ſhall be ſet at ſale for the ranſoming of his impriſoned holineſſe, <hi>William Laud</hi> Arch-biſhop of <hi>Canterbury, Primate</hi> and <hi>Metropolitan</hi> of all <hi>England,</hi> his Grace, with the reſt of his ſacred Brethren now in durance in the Tower for their moſt pious papall and Archprelaticall Pro<g ref="char:EOLhyphen"/>teſtation<note place="margin">The ſaid <hi>Em<g ref="char:EOLhyphen"/>perour</hi> gave to <hi>Pope Silueſter</hi> and his ſucceſ<g ref="char:EOLhyphen"/>ſors, <hi>Rome. Ita<g ref="char:EOLhyphen"/>ly,</hi> and the <hi>Weſt</hi> parts for St. <hi>Pe<g ref="char:EOLhyphen"/>ters Patrimony</hi> for ever.</note> and Petition, and for the rayſing up ſupply for their Viaticall expenſes with us in our returne to <hi>Babilon</hi> the Great.</p>
+               <p rend="italic">Vivat papa Romanorum
+<lb/>In ſecula ſeculorum, Et ultra.
+<lb/>
+                  <hi>Amen Amen.</hi>
+               </p>
+            </q>
+            <lg>
+               <l>This done the <hi>Pope</hi> (in hight of <hi>Romiſh</hi> pride)</l>
+               <l>With <note n="(b)" place="margin">
+                     <hi>Cardinalls</hi> were appointed by <hi>Pope Gregory</hi> the 10. for the election of <hi>Popes Anno,</hi> 1272.</note> 
+                  <hi>Cardinalls,</hi> and all the <hi>Troop</hi> beſide</l>
+               <l>Of <hi>Hell ſmoak-vented Locuſts</hi> ſhew'd their Ware</l>
+               <l>Which they brought with them to <hi>New Lambeth Fayre.</hi>
+               </l>
+               <l>Heer's a rare <hi>Head,</hi> the <hi>Pope</hi> cry'd out amaine.</l>
+               <l>'Tis ſtuft with <hi>Treaſons</hi> full as't can containe,</l>
+               <l>Come buy this <hi>Head,</hi> 'tis fild with <hi>Noble braines,</hi>
+               </l>
+               <l>Tak't in your hand, Ile ſell't you for ſmall gaines,</l>
+               <l>Would'ſt thou know how to ſway the <hi>Royall Throne?</hi>
+               </l>
+               <l>Live like a <hi>King,</hi> and make a <hi>King</hi> like none;</l>
+               <l>'Ile ſell that <hi>Art,</hi> good as the <hi>Divell</hi> ere made;</l>
+               <l>Thou never ſee a beetter Man of th'Trade,</l>
+               <l>
+                  <pb facs="tcp:112088:3"/>Buy <hi>Treaſons</hi> of the <hi>Maker,</hi> here are ſtore,</l>
+               <l>Vpon my word, I am <hi>great Babels</hi> WHORE:</l>
+               <l>Here's <hi>Powder Plots,</hi> Oh moſt admired <hi>Ware,</hi>
+               </l>
+               <l>They'l blow up <hi>Kings</hi> and <hi>Kingdomes</hi> in the <hi>Ayre,</hi>
+               </l>
+               <l>Come hither Sir, are you for <hi>Sea</hi> or <hi>Land?</hi>
+               </l>
+               <l>Her's <hi>Plots</hi> for both, will fit you out of hand;</l>
+               <l>How like you 88. Oh ſuch a <hi>Plot</hi>
+               </l>
+               <l>Will tame the fury of the curſed <hi>Scot!</hi>
+               </l>
+               <l>Her's the late <hi>Fleet,</hi> the <hi>Flemiſh Butter Box,</hi>
+               </l>
+               <l>Saluted lately with ſo many knocks.</l>
+            </lg>
+            <lg>
+               <l>But the beſt <hi>Plot</hi> that ever yet was found</l>
+               <l>Is now on foot upon the <hi>Iriſh Ground,</hi>
+               </l>
+               <l>Oh here is ware will quell your proudeſt Foe,</l>
+               <l>And make him ſwim in blood where ere you goe!</l>
+               <l>Take but one <hi>Dram</hi> of this, and it will make</l>
+               <l>Both <hi>England, Wales</hi> and <hi>Scotland</hi> too to quake,</l>
+               <l>'Tis the rar'ſt one my <hi>Holineſſe</hi> hath brought</l>
+               <l>Vnto this <hi>Fayre,</hi> thus to be ſold and bought,</l>
+               <l>I brought a <hi>Paterne</hi> purpoſe for this <hi>Land</hi>
+               </l>
+               <l>To bring the <hi>Hereticks</hi> to my command,</l>
+               <l>Buy't for its vertue, for it hath a power</l>
+               <l>To free my <hi>Laud,</hi> and ſet' him out' oth <hi>Towre,</hi>
+               </l>
+               <l>Here's <hi>Faux</hi> his <hi>Brain pan,</hi> for a <hi>Quaffing Boull</hi>
+               </l>
+               <l>To drinke an <hi>Health</hi> in <hi>Treaſons</hi> to his ſoul,</l>
+               <l>
+                  <hi>Gowries Conſpiracie,</hi> or what elſe may be</l>
+               <l>Fatall to <hi>Kings,</hi> and Triumph unto <hi>Me,</hi>
+               </l>
+               <l>Here's <hi>Straffords Witt,</hi> will teach you how to ride</l>
+               <l>In <hi>Charles His Waine,</hi> and through the <hi>Stars</hi> beſide,</l>
+               <l>But like to <hi>Phaeton</hi> too buſie with the <hi>Sun</hi>
+               </l>
+               <l>He was throwne out, and ſo his life was <hi>done.</hi>
+               </l>
+               <l>Come hither Sir, doe you deſire to be</l>
+               <l>Greater then <note n="(c)" place="margin">
+                     <hi>Pope Inno<g ref="char:EOLhyphen"/>cent</hi> arrogated to himſelfe power to crown and deprive <hi>Im<g ref="char:EOLhyphen"/>perours, Kings,</hi> and <hi>Princes</hi> at his pleaſure, Anno. 1195.</note> 
+                  <hi>Kings,</hi> or <hi>Emperours</hi> in degree,</l>
+               <l>Make <hi>Kings</hi> your <note n="(d)" place="margin">
+                     <hi>Pope Alex<g ref="char:EOLhyphen"/>ander</hi> the 3. compelled <hi>Lewes</hi> King of <hi>France,</hi> and <hi>Henry</hi> King of <hi>England,</hi> to be his Lackies. <hi>Pope Adrian</hi> was angry with the <hi>Emperour</hi> for holding the left Stirrop. Anno 1158.</note> 
+                  <hi>Slaves,</hi> and <hi>Emperors</hi> kiſſe your <note n="(e)" place="margin">
+                     <hi>Pope Le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> the firſt offered his feet to <hi>Prin<g ref="char:EOLhyphen"/>ces</hi> to be k<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſed<g ref="char:punc">▪</g> Anno 850.</note> 
+                  <hi>Toe,</hi>
+               </l>
+               <l>And to your <hi>Highneſſe</hi> make them barefoot goe?</l>
+               <l>I have that <hi>Art,</hi> no Mortall can compare,</l>
+               <l>Or ever bring the like to any <hi>Fayre:</hi>
+               </l>
+               <l>Tis better then <hi>Lawn-ſleeves,</hi> for this will make</l>
+               <l>Not onely <hi>Kings,</hi> but <hi>Kingdomes</hi> too to ſhake,</l>
+               <l>Not many <hi>Kings</hi> ſurceaſ'd, I was <hi>ſupreame</hi>
+               </l>
+               <l>Here in this <hi>Ile,</hi> but time hath turnd the ſtreame.</l>
+               <l>
+                  <pb facs="tcp:112088:4"/>But though the thing be ſomething out of date,</l>
+               <l>Here's <hi>Plots</hi> to boot, which will renew its ſtate,</l>
+               <l>Come buy this <hi>Gem,</hi> then in ſmall time I hope</l>
+               <l>You'll prove a <hi>Prelate,</hi> but beware the <hi>Rope.</hi>
+               </l>
+               <l>Here's ayd for'th <hi>Iriſh,</hi> to ſubdue and quell</l>
+               <l>The <hi>Proteſtants,</hi> and ſend them thence to <hi>Hell:</hi>
+               </l>
+               <l>Oh that curſt <hi>Crew,</hi> I have new <hi>Plots</hi> in ſtore</l>
+               <l>To ſhed their blood and leave them in their Goare,</l>
+               <l>Millions of Money I have had ere while</l>
+               <l>Fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtratagems invented for this <hi>Ile,</hi>
+               </l>
+               <l>Well let them thrive, I may ere long I hope</l>
+               <l>Shew them a trick thus to abuſe the <hi>Pope,</hi>
+               </l>
+               <l>My eldeſt <hi>Son</hi> ſole <hi>heire</hi> unto my <hi>Powre</hi>
+               </l>
+               <l>Whom they moſt falſly have clapt in the <hi>Towre,</hi>
+               </l>
+               <l>I will redeeme if in this ſacred <hi>Fayre,</hi>
+               </l>
+               <l>I can get money for my popiſh ware,</l>
+               <l>Ile be reveng'd, or elſe my Triple-crowne</l>
+               <l>Shall lye at ſtake, to credit his renowne,</l>
+               <l>You that affect his ſacred holineſſe</l>
+               <l>Ile ſell you plots will free him from diſtreſſe,</l>
+               <l>Come buy them <hi>Tribe of Levi,</hi> for I know</l>
+               <l>You'd free your <hi>Primate,</hi> if you knew but how,</l>
+               <l>Come here ye <hi>Dum-Diegoes,</hi> view and ſee</l>
+               <l>My <hi>Romiſh Conclave,</hi> come and buy of me,</l>
+               <l>If you want Treaſons or confounding Plots</l>
+               <l>To conquer <hi>England</hi> and ſubdue the <hi>Scots<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>Here buy this plot, and take it on my word,</l>
+               <l>It is the beſt the Divells in hell afford,</l>
+               <l>I have a thouſand thouſand Divells to bring</l>
+               <l>Tydings from N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions, and from every King,</l>
+               <l>How States are ſway'd, and how they'r wheeld about,</l>
+               <l>Some at the court, and ſome with rable-rout,</l>
+               <l>That I know when the fitteſt time will be</l>
+               <l>To make a commick ſtate a tragadie,</l>
+            </lg>
+            <lg>
+               <l>Whereat my muſe began to ſtart aſide</l>
+               <l>As one that ſcarce durſt longer there abide</l>
+               <l>To ſee ſuch <hi>Sparks</hi> of <hi>Velvet,</hi> as came there</l>
+               <l>To cheapen treaſons; but I will forbeare,</l>
+               <l>To nominate, to whom the Pope did vent</l>
+               <l>Accurſed <hi>Plots</hi> to breake our Parliament:</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:112088:4"/>
+               <l>To ſee ſuch trading there my Muſe reſolu'd,</l>
+               <l>To try elſe where what other things were ſold,</l>
+               <l>And thence departing further ſhe eſpi'd</l>
+               <l>The <hi>Roman Cardinalls</hi> in glorious pride,</l>
+               <l>Their ſtalls were ſo adorn'd with ſeverall kinds</l>
+               <l>Of Babels Trinkets to content their minds,</l>
+               <l>Which made her wonder, wondring did behold</l>
+               <l>
+                  <note n="*" place="margin">Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſecution for conſcience came in under <hi>Pope Pelagius 1. Anno.</hi> 552. af<g ref="char:EOLhyphen"/>ter eſtabliſhed, at the great Lat<g ref="char:EOLhyphen"/>teran Councell, <hi>Anno,</hi> 1215. retained in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> by bloody Biſhops and their Courts to the yeare 1641.</note> Saints in their blood lye groveling on the mould,</l>
+               <l>Their Shops and hangings were beſmear'd with blood</l>
+               <l>Of Martyr'd ſoules, which had their Lawes withſtood,</l>
+               <l>Gazing at this, the next thing that ſhe ſaw</l>
+               <l>Were bleeding hearts, ſqueeſ'd in a griping paw,</l>
+               <l>Dividing aire with hell-breath'd Dialect</l>
+               <l>In theſe harſh tearms, Oh now I could diſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ect,</l>
+               <l>Thouſands of ſoules, thus peecemale in my ſpight</l>
+               <l>Though their curſ'd Wives and Children were in ſight,</l>
+               <l>Here are deviſes for to torture thoſe</l>
+               <l>That ſhall his <hi>holineſſe</hi> or us oppoſe,</l>
+               <l>Our <hi>Spaniſh Inquiſition</hi> if you'l buy</l>
+               <l>'Twill fit you for all tortures preſently,</l>
+               <l>This I brought with me 'cauſe I heard of late</l>
+               <l>Your <hi>High-Commiſſion</hi> is grown out of date,</l>
+               <l>Here's a conceit will make both great and ſmall</l>
+               <l>
+                  <hi>Nations,</hi> and peoples, kindreds, tongues and all,<note place="margin">* Foretold <hi>Rev.</hi> 13. firſt aſſaied by <hi>Boniface</hi> the firſt, granted by <hi>Emperour Ph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>cas</hi> a Tyrant, and <hi>Emperour Conſtantine:</hi> Obtained by <hi>Pope Bennit</hi> the 2. <hi>Anno.</hi> 66<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+               </l>
+               <l>Bow to your <hi>Marke,</hi> and number of your <hi>Name</hi>
+               </l>
+               <l>That none ſhall buy or ſell without the ſame.</l>
+               <l>Then cries another here is <hi>Purgatory,</hi>
+               </l>
+               <l>
+                  <hi>Limbo Infantum, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atrum,</hi> and the Story</l>
+               <l>Of <hi>Bell</hi> and <hi>Dragon, Tobit</hi> and his <hi>Dogg</hi>
+               </l>
+               <l>Come buy theſe <hi>Trinkets</hi> and away Ile jogg,</l>
+               <l>Here's the <note n="(f)" place="margin">
+                     <hi>Pope Le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> the third, de<g ref="char:EOLhyphen"/>creed that all mens judgment<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> muſt be ſubject<g ref="char:punc">▪</g> to the <hi>Popes</hi> de<g ref="char:EOLhyphen"/>crees, <hi>Anno.</hi> 817. <hi>Nicholas</hi> the firſt, that they ſhould be e<g ref="char:EOLhyphen"/>quall with <hi>Gods</hi> Word, <hi>Anno,</hi> 871.</note> 
+                  <hi>Decretals Pardons</hi> for the dead</l>
+               <l>
+                  <hi>Indulgences</hi> the holy <hi>Croſſe</hi> and <hi>Bead,</hi>
+               </l>
+               <l>The next to him a ſalvage <hi>Bonner</hi> ſtood</l>
+               <l>Much like the other that was dipt in bloud,</l>
+               <l>And he ſold fire and faggots to torment</l>
+               <l>And burne the <hi>Saints</hi> up all incontinent,</l>
+               <l>Another he had got a world of <hi>Spits</hi>
+               </l>
+               <l>With <hi>Inſtruments</hi> to hack them all to bits,</l>
+               <l>Another he ſold <hi>Hunger Thirſt</hi> and <hi>cold</hi>
+               </l>
+               <l>With loathſome <hi>Goales</hi> for ſuch as ſhould be bold,</l>
+               <l>
+                  <pb facs="tcp:112088:5"/>Once to controle them in their papall ſway,</l>
+               <l>Or daſh their glory with an heavenly ray,</l>
+            </lg>
+            <lg>
+               <l>But the moſt hideous g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtly ſight of all</l>
+               <l>Was a fierce Frend, an other <hi>Cardinall:</hi>
+               </l>
+               <l>For in his ſhop with horrour and amaze</l>
+               <l>Were all the tortures uſ'd in former dayes,</l>
+               <l>The ten hot <hi>Perſecutions,</hi> in their rage,</l>
+               <l>And all the reſt uſ'd in this preſent <hi>Age,</hi>
+               </l>
+               <l>Were there at ſale, that he appeard to be</l>
+               <l>More cruell farre then ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arn <hi>Teſiphome,</hi>
+               </l>
+               <l>
+                  <hi>Snakie hair'd Megera, Alecto</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Are ſcarce ſo cruell in th' Infern<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll <hi>Cell,</hi>
+               </l>
+               <l>Sometimes h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſhop was fild with ſulphurie ſmoak,</l>
+               <l>One would have thought his chapmen would'been choakt</l>
+               <l>Then preſently the fire and faggot blaz'd</l>
+               <l>Which made my muſe affrighted ſtand amaz'd,</l>
+               <l>To ſee ſuch Millions frying in the fire</l>
+               <l>While this ſtearn <hi>Tyrant</hi> gnaſh't his teeth with <hi>Ire,</hi>
+               </l>
+               <l>The <hi>Skins</hi> of Saints, their <hi>Tongues,</hi> their <hi>eyes,</hi> and <hi>eares,</hi>
+               </l>
+               <l>Were there at ſale with floods of briniſh teares.</l>
+            </lg>
+            <lg>
+               <l>Weary of this, my Muſe diſplay'd her Wing</l>
+               <l>And ſoaring higher heard the w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lkin Ring,</l>
+               <l>With various voyces chattering in the Ayre,</l>
+               <l>To ſell their <hi>Trinkets</hi> in new <hi>Lambeth-Fayre:</hi>
+               </l>
+               <l>Bald-pated <hi>Fryers,</hi> with th'Infernall <hi>Traine</hi>
+               </l>
+               <l>Of <hi>Romiſh</hi> Vermine cri'd with might and maine,</l>
+               <l>Their ſeverall <hi>Trinkets,</hi> 
+                  <note n="*" place="margin">It was decread at a Counſell held at <hi>Lions g</hi>nder <hi>Pope Gre<g ref="char:EOLhyphen"/>nory</hi> the 10. An<g ref="char:EOLhyphen"/>no 1271. That <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Parſons</hi> and <hi>Vicars</hi> ſhould be called for ever after <hi>Prieſts,</hi> &amp; no mo <hi>ePrelats,</hi>
+                  </note> 
+                  <hi>Prieſts</hi> and all the reſt</l>
+               <l>Of <hi>Hell</hi>-ſent <hi>Locuſts,</hi> that came with the <hi>Beaſt,</hi>
+               </l>
+               <l>Cald to their chap-men, ſwearing by the <hi>Maſſe</hi>
+               </l>
+               <l>Their ware was ſuch as through the World might paſſe,</l>
+               <l>
+                  <note n="(k)" place="margin">
+                     <hi>Pope Gre<g ref="char:EOLhyphen"/>gory</hi> the 1. de<g ref="char:EOLhyphen"/>viſed <hi>Anthems.</hi>
+                  </note> 
+                  <hi>Anthems</hi> and <note n="(l)" place="margin">
+                     <hi>Pope Dama<g ref="char:EOLhyphen"/>ſus</hi> added <hi>Hymnes</hi> to the <hi>Service.</hi>
+                  </note> 
+                  <hi>Hymnes,</hi> and <note n="(m)" place="margin">
+                     <hi>Pope Pela<g ref="char:EOLhyphen"/>gius</hi> the 1. <hi>Or<g ref="char:EOLhyphen"/>dained</hi> Funerall <hi>Dirges,</hi> with <hi>Maſſes</hi> of <hi>requi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m</hi> to be ſung For the dead. Anno 552.</note> 
+                  <hi>Dirges</hi> for the dead,</l>
+               <l>The <note n="(n)" place="margin">
+                     <hi>Pope Greg.</hi> the 1. Ordai<g ref="char:EOLhyphen"/>ned the <hi>Office</hi> of the <hi>Maſſe</hi> Anno 590. Au<g ref="char:EOLhyphen"/>thors of the <hi>Maſſe, Gregory, Gelaſius, Sirici<g ref="char:EOLhyphen"/>us, Clement, A<g ref="char:EOLhyphen"/>lexander, Pela<g ref="char:EOLhyphen"/>gius Sergius &amp;c. Popes.</hi>
+                  </note> 
+                  <hi>Latin Maſſe</hi> with the <hi>Incarnate Bread,</hi>
+               </l>
+               <l>
+                  <hi>Bell Book</hi> and <hi>Candle,</hi> to accurſe all evill,</l>
+               <l>And <note n="(o)" place="margin">Invented by <hi>Alexander</hi> the 1. Anno <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>10.</note> 
+                  <hi>Holy water</hi> to affright the <hi>Devill,</hi>
+               </l>
+               <l>Divine <note n="(p)" place="margin">Firſt com<g ref="char:EOLhyphen"/>manded by <hi>Pope Agapetus</hi> Anno, 533.</note> 
+                  <hi>Proceſſion,</hi> holy <note n="(q)" place="margin">
+                     <hi>Pope Cletus</hi> allowed <hi>Pilgri<g ref="char:EOLhyphen"/>mages</hi> Anno 81.</note> 
+                  <hi>Pilgrimage</hi>
+               </l>
+               <l>All ſorts of <hi>Whimſies,</hi> fit for every age,</l>
+               <l>Freſh <hi>Avie Maries</hi> from the holy function,</l>
+               <l>
+                  <hi>Cream,</hi> 
+                  <note n="(r)" place="margin">
+                     <hi>Oyle and Cream,</hi> brought in by <hi>Pope Cle<g ref="char:EOLhyphen"/>ment.</hi> Anno. 92,</note> 
+                  <hi>Salt,</hi> and <hi>Spittle,</hi> with the <note n="(ſ)" place="margin">Appoynted for dying <hi>Per<g ref="char:EOLhyphen"/>ſons,</hi> by <hi>Pope Felix</hi> 4. Anno 525.</note> ſacred <hi>Vnction,</hi>
+               </l>
+               <l>Orders for <note n="(t)" place="margin">
+                     <hi>Pope <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> ordained <hi>Preiſts</hi> for every. <hi>Town, village</hi> &amp;c Anno 101.</note> 
+                  <hi>Prieſts,</hi> 
+                  <note n="(u)" place="margin">Firſt <hi>M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>kiſh Order</hi> began under <hi>Pope Siri<g ref="char:EOLhyphen"/>cius,</hi> firſt raiſed by <hi>Baſilius mag<g ref="char:EOLhyphen"/>nus Biſhop of Ce<g ref="char:EOLhyphen"/>ſarea</hi> in <hi>Capp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cea.</hi> Anno. 389.</note> 
+                  <hi>Monks,</hi> 
+                  <note n="(w)" place="margin">
+                     <hi>Pope inno<g ref="char:EOLhyphen"/>cent.</hi> 3. in the 18. <hi>Year<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> of his pa<g ref="char:EOLhyphen"/>pacy ordained <hi>Fryers,</hi> there be nine ſeverall <hi>Or<g ref="char:EOLhyphen"/>ders</hi> of them.</note> 
+                  <hi>Friers,</hi> and the neſt</l>
+               <l>Of <hi>Abbie Lubbers,</hi> Priors, and the reſt,</l>
+               <l>
+                  <pb facs="tcp:112088:5"/>The <hi>ſhirt</hi> of <hi>haire,</hi> the <note n="(x)" place="margin">
+                     <hi>Pennance,</hi> was invented by Pope <hi>Nicholas</hi> the firſt.</note> 
+                  <hi>Pennance</hi> and the <note n="(y)" place="margin">
+                     <hi>Croſſe</hi> in <hi>Baptiſme</hi> firſt commanded by Pope <hi>Clement. Anno.</hi> 92.</note> 
+                  <hi>Croſſe,</hi>
+               </l>
+               <l>
+                  <hi>Prayers unto Saints,</hi> and ſuch like popiſh droſſe,</l>
+               <l>
+                  <hi>Shroving of women<g ref="char:punc">▪</g>
+                  </hi> with ſuch pritty knacks,</l>
+               <l>To calculate the <hi>Stars</hi> upon their backs,</l>
+               <l>
+                  <hi>Morning Oriſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns,</hi> proſtrate on their beds,</l>
+               <l>And <note n="(z)" place="margin">
+                     <hi>Pope Iohn</hi> the firſt raiſed up the <hi>Order</hi> of <hi>Nuns.</hi>
+                  </note> 
+                  <hi>Virgin Nuns</hi> cr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d out their <hi>Maiden-heads:</hi>
+               </l>
+               <l>
+                  <hi>Omne Venale</hi> others cry and call</l>
+               <l>Here's <hi>Money Pardons</hi> to forgive you all<g ref="char:punc">▪</g>
+               </l>
+               <l>You that are <hi>Blades,</hi> and doe deſire to roare,</l>
+               <l>Here's <hi>Diſpenſations</hi> for to wenth and whore,</l>
+               <l>Here's <hi>carnall Merits, Rites,</hi> and <hi>Innovations,</hi>
+               </l>
+               <l>And <hi>Ceremonies,</hi> for all kind of <hi>Nations.</hi>
+               </l>
+               <l>
+                  <note n="(a)" place="margin">
+                     <hi>Pope Vitali<g ref="char:EOLhyphen"/>an</hi> firſt brought in Organs into the Church, <hi>An.</hi> 653.</note> 
+                  <hi>Vitalian</hi> Cri'd with <hi>Organs</hi> on his back</l>
+               <l>Iuſt fidler like, what Muſick doe you lack,</l>
+               <l>And dancing after, <note n="(b)" place="margin">
+                     <hi>Guid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Aro<g ref="char:EOLhyphen"/>rinus</hi> the firſt, deviſed theſe ſix notes.</note> 
+                  <hi>Guid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>'gan to play,</l>
+               <l>And quaver'd out, <hi>V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Re, My, Fa, Sol, La,</hi>
+               </l>
+               <l>Lay out your money, others cry'tis droſſe</l>
+               <l>Here's <note n="(d)" place="margin">
+                     <hi>Pope <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> ordained the <hi>Paſchall <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>pers</hi> to be Hal<g ref="char:EOLhyphen"/>lowed, <hi>Anno</hi> 414.</note> 
+                  <hi>Paſchall Tapers,</hi> 
+                  <note n="(e)" place="margin">
+                     <hi>Pope Grego<g ref="char:EOLhyphen"/>ry</hi> the firſt brought <hi>creepings to the Croſſe</hi> into the Church.</note> 
+                  <hi>creepings to the croſſe,</hi>
+               </l>
+               <l>
+                  <note n="(f)" place="margin">By <hi>Gregory.</hi>
+                  </note> 
+                  <hi>Tentales</hi> for ſoules departed, <note n="(g)" place="margin">Ibid.</note> ſacred <hi>Palmes,</hi>
+               </l>
+               <l>
+                  <note n="(h)" place="margin">The firſt began under <hi>Pope Silveſter, Anno</hi> 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.</note> 
+                  <hi>Hermits ap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rell,</hi> conſecrated <hi>Almes,</hi>
+               </l>
+               <l>Here's <note n="(i)" place="margin">Holy-fire or<g ref="char:EOLhyphen"/>dained by <hi>Zozi<g ref="char:EOLhyphen"/>mus.</hi>
+                  </note> holy fire for <hi>Eaſters Eve</hi> to hear</l>
+               <l>Your ſtomacks to concoct your <hi>Sunday's</hi> meat,</l>
+               <l>
+                  <note n="(k)" place="margin">
+                     <hi>Pope Ignius</hi> firſt ordained Churches to bee hallowed, <hi>Anno</hi> 143.</note> 
+                  <hi>Church Conſecrations, Ornaments</hi> of <hi>gold,</hi>
+               </l>
+               <l>And <hi>hallow'd Golgotha's</hi> 
+                  <note n="(l)" place="margin">
+                     <hi>Pope Calix<g ref="char:EOLhyphen"/>tus</hi> firſt ordained Church-yards, and the hallow<g ref="char:EOLhyphen"/>ing of them. <hi>An.</hi> 222.</note> 
+                  <hi>Calixtusſold,</hi>
+               </l>
+               <l>
+                  <hi>Collects</hi> and <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 
+                  <note n="(m)" place="margin">
+                     <hi>Pope Gre<g ref="char:EOLhyphen"/>gory</hi> firſt, and <hi>Pope Gelaſius</hi> firſt brought them in.</note> 
+                  <hi>Gregory</hi> calls aloud,</l>
+               <l>And <note n="(n)" place="margin">
+                     <hi>Pope Sabian</hi> firſt brought Bells into the Church. <hi>Anno</hi> 603.</note> 
+                  <hi>Sabian</hi> with his <hi>Bells</hi> ran through the croud,</l>
+               <l>Iejune <note n="(o)" place="margin">To prevent Shee Popes it was decreed that at their election they ſhould ſit bare arſed in a bottomleſſe Chaire, and a <hi>Cardinall</hi> with al humility ſhould groape with his hand whether <hi>&amp;c.</hi> if he had them, then the <hi>Cards<g ref="char:punc">▪</g> 
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> ſhould cry, <hi>Teſticul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s habet,</hi> anſwer <hi>Deo gra<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>. Anno.</hi> 860.</note> 
+                  <hi>Teleſphorus Iack-a-lent</hi> did bring</l>
+               <l>(Brought hither firſt by <hi>Carc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>bertus</hi> King.)</l>
+               <l>Then preſently <hi>Pope Ioan</hi> cries as ſhe rides,</l>
+               <l>My back, my back, my belly and both my ſides,</l>
+               <l>And in a fury cals (as ſhe were wild)</l>
+               <l>Come hither friends, and buy this holy <hi>Child,</hi>
+               </l>
+               <l>And <hi>Innocent</hi> to waſh of <hi>Adams</hi> ſinn,</l>
+               <l>Brought <hi>holy water</hi> to <hi>baptize</hi> it in.</l>
+               <l>
+                  <hi>Synods</hi> and Counſells, others came to vent,</l>
+               <l>The <hi>Lateran, Nicene, Bracharence,</hi> and <hi>Trent,</hi>
+               </l>
+               <l>The <hi>Orleans, Lyons:</hi> endleſſe is the kind</l>
+               <l>Of various <hi>Reliques</hi> that are yet behind,</l>
+               <l>All there at ſale: But in the very pride</l>
+               <l>Of this <hi>New Faire,</hi> my prying Muſe eſpi'd</l>
+               <l>
+                  <pb facs="tcp:112088:6"/>An ugly <hi>Owle</hi> came fluttering through the aire</l>
+               <l>On purpoſe ſure to view their popiſh ware,</l>
+               <l>Much like that ſchreching broadfac'd Bird of night</l>
+               <l>Whoſe three dayes daring preſence did affright,</l>
+               <l>
+                  <hi>Romes</hi> mighty Senate, that they durſt not ſtay;</l>
+               <l>But thought it was the Divell, and ran away.</l>
+            </lg>
+            <lg>
+               <l>Even ſo this <hi>Owle</hi> (pearch'd on the top of all.</l>
+               <l>The ſacred <hi>Croſſe</hi> fixt on the <hi>Pope</hi> his ſtall;</l>
+               <l>Which when they ſaw ſome gan to hoote, and fling</l>
+               <l>Their <hi>Croſier Staffes,</hi> to make her take the wing,</l>
+               <l>But this bold <hi>Bird</hi> of darkneſſe would not riſe</l>
+               <l>Doe what they could, but ſtaring with her eyes,</l>
+               <l>Out-fac'd them all, which preſently amaz'd</l>
+               <l>The <hi>Pope</hi> himſelfe, who thought the Divell had gaz'd;</l>
+               <l>That in affright they pack'd up all their <hi>Ware,</hi>
+               </l>
+               <l>For <hi>Rome</hi> againe, and left <hi>New Lambeth Faire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But our more bolder <hi>Biſhops</hi> not affraid,</l>
+               <l>Of <hi>Owles,</hi> nor <hi>Divells,</hi> were nothing diſamay'd,</l>
+               <l>But with undanted Courage all amaine,</l>
+               <l>Came to this <hi>Fayre</hi> thus conſecrate againe,</l>
+               <l>The <hi>Cleark</hi> ofth'<hi>Fayre</hi> was preſently beſpoken,</l>
+               <l>To give them liberty their <hi>Stalls</hi> to open:</l>
+               <l>Proclaim't againe, the <hi>Biſhops</hi> all they cry'd,</l>
+               <l>Wee'll try if we can longer here abide:</l>
+            </lg>
+            <lg>
+               <l>The <hi>Clerke</hi> gave leave, the <hi>Cryer</hi> on a Hill</l>
+               <l>Standing, began to cry with voyce ſo ſhrill.</l>
+            </lg>
+            <lg>
+               <l>O yes, Oyes, J doe cry,</l>
+               <l>The Biſhops Trinckets who will buy?</l>
+            </lg>
+            <lg>
+               <l>This being done of <hi>Biſhops</hi> all the Crew,</l>
+               <l>Began with ſpeed, their wearing Robes to ſhew.</l>
+               <l>And with extended voyce, they all did cry,<note place="margin">* <hi>About the year<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 248. lived a prieſt called</hi> Fidus, 158. <hi>yeares after</hi> Iohn <hi>the</hi> Apo<g ref="char:EOLhyphen"/>ſtle, <hi>who would that young chil<g ref="char:EOLhyphen"/>dren ſhould bee baptiſed upon the 8. day. But</hi> Cyprian <hi>with</hi> 66. <hi>Biſhops or<g ref="char:EOLhyphen"/>dained they ſhould retaine it without delay. About 300. yeares after the</hi> Apoſtles <hi>it be<g ref="char:EOLhyphen"/>came more gene<g ref="char:EOLhyphen"/>rall.</hi> Caſſander in lib. de Infant. Bap. <hi>It was ra<g ref="char:EOLhyphen"/>tify'd and con<g ref="char:EOLhyphen"/>firmed by pope</hi> Innocent 3. <hi>at the ſecond</hi> Bra<g ref="char:EOLhyphen"/>charenſe <hi>Coun<g ref="char:EOLhyphen"/>ſell, Anno 610. Decreed like<g ref="char:EOLhyphen"/>wiſe at the 5. Carthage Coun<g ref="char:EOLhyphen"/>ſell retained and continued ſtill in</hi> England; <hi>more <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the pitty. Pope Euginius de<g ref="char:EOLhyphen"/>creed Godfathers, and God-mo<g ref="char:EOLhyphen"/>thers An.</hi> 143.</note>
+               </l>
+               <l>Come Cuſtomers, ſee what you lack and buy;</l>
+               <l>Here's (<hi>b</hi>) Veſtments Conſecrate, all ſorts and ſizes,</l>
+               <l>You may<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>have here, if you'll come to the priſes:</l>
+               <l>Buy Fayrings for your Children, herr are toyes,</l>
+               <l>Fit for your purpoſe, be they Gerls, or Boyes;</l>
+               <l>Caps for your Boyes, to hurle into the aire<g ref="char:punc">▪</g>
+               </l>
+               <l>And <hi>Beads</hi> for Gerles, are here in <hi>Lambeth Fayre:</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:112088:6"/>What though theſe Robes were firſt deviſ'd in Hell,</l>
+               <l>Tuſh thats no matter, we'll good pen-worths ſell:</l>
+               <l>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re look upon them, they are good and ſtrong,</l>
+               <l>They'r neate and handſom, and will laſt you long,</l>
+               <l>They'r very full and large, you nere ſaw ſtronger;</l>
+               <l>I would not ſell them durſt I keepe them longer.</l>
+               <l>Buy a <hi>Crucifix,</hi> another loud doth call,</l>
+               <l>'Twill ſcare the <hi>Devill,</hi> and will preſerve your ſoule;</l>
+               <l>Lay out your money, hang up worldly <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elfe,</l>
+               <l>I will ſel't cheaper, then <hi>I</hi> had't my ſelfe:</l>
+               <l>It's ſtrange to ſe how men their money keepe,</l>
+               <l>What come you all to <hi>Lambeth-Fayre</hi> to ſleepe;</l>
+               <l>Come buy <hi>Lawn ſleeves</hi> I have no money took,</l>
+               <l>Here try them on, you't like a <hi>Biſhop</hi> looke;</l>
+               <l>And may get honour both of great and ſmall,</l>
+               <l>And Lord it ore your fellow Brethren all:</l>
+               <l>If that the times ſhould chance once more to turne,</l>
+               <l>Then might you Lord it, like as we have done,</l>
+               <l>Come hither Friend, and buy this ſilken Gowne,</l>
+               <l>I'm ſure you cannot match't in <hi>Lambeth</hi> Towne:<note place="margin">(o) <hi>Pope Ste<g ref="char:EOLhyphen"/>ven</hi> the firſt de<g ref="char:EOLhyphen"/>creed that a <hi>Prieſt</hi> in time of divine ſervice ſhould uſe no o<g ref="char:EOLhyphen"/>ther but Hal<g ref="char:EOLhyphen"/>lowed garments <hi>Anno</hi> 261.</note>
+               </l>
+               <l>In this ſame Gowne, did <hi>Canterburies Grace,</hi>
+               </l>
+               <l>At <hi>High-Commiſſion</hi> ſhew his graceleſſe face;</l>
+               <l>Many a ſtorme, and ſhower it will abide,</l>
+               <l>Yea, and a world of knaverie it will hide;</l>
+               <l>Sir, looke upon't, and view it at your leiſure,</l>
+               <l>Goe to the price, for you I faine would pleaſure,<note place="margin">(p) Firſt brought into <hi>England</hi> by <hi>Au<g ref="char:EOLhyphen"/>ſtin</hi> the <hi>Monk,</hi> ſent by <hi>Pope Gre<g ref="char:EOLunhyphen"/>gory</hi> the firſt, to preach the do<g ref="char:EOLhyphen"/>ctrine of <hi>Rome,</hi> with all their <hi>Superſtitions</hi> and <hi>Traditions</hi> firſt entertained at <hi>Canterbury, Ann.</hi> 590.</note>
+               </l>
+               <l>Come buy his <hi>Graces Gowne,</hi> the price is ſmall,</l>
+               <l>And if you will I'le ſell you grace and all.</l>
+               <l>Though he have worn't, it's neere the worſe for wearing,</l>
+               <l>Girt it but cloſe and never feare the rearing.</l>
+            </lg>
+            <lg>
+               <l>Come buy my <hi>Croſier ſtaffe,</hi> another he begins,</l>
+               <l>Tis excellent to keepe Dogs from your ſhins:</l>
+               <l>Pray Sir let me ſome of your money take,</l>
+               <l>And keepe this ſtaffe for its old maſters ſake.</l>
+            </lg>
+            <lg>
+               <l>Another comes as if his back would breake,</l>
+               <l>Burthen'd with <hi>Veſtures,</hi> and gan thus to ſpeake,</l>
+               <l>
+                  <hi>Trinckets I</hi> have good ſtore, within my packe,</l>
+               <l>I pray you view them, and ſee what you lack;</l>
+               <l>See for your love, and for your Money buy,</l>
+               <l>Name what you want, I'le fit you preſently,</l>
+               <l>
+                  <pb facs="tcp:112088:7"/>My packe it is a <hi>Wardrope</hi> large and faire,</l>
+               <l>Wherein are <hi>Miters, Caps</hi> rotund and ſquare,</l>
+               <l>The rar'ſt <hi>Epiſcopalls,</hi> that ere you ſee,</l>
+               <l>Are in my pack, come pray you buy of me;</l>
+               <l>Here's rich Embroydred ware, chuſe where you pleaſe,</l>
+               <l>I have a thouſand ſuch like knacks as theſe:</l>
+               <l>Buy this brave Rochet, buy this curious Cope,</l>
+               <l>The tippet, Scarfe, they all came from the <note n="(r)" place="margin">Prieſts <hi>appa<g ref="char:EOLhyphen"/>rell invented by Pope</hi> Zachary, <hi>Anno</hi> 752.</note> 
+                  <hi>Pope;</hi>
+               </l>
+               <l>'Ile ſell them at a fare you cannot looſe,</l>
+               <l>Or elſe exchange them for a pair of ſhoofe;</l>
+               <l>I muſt to <hi>Rome,</hi> I can no longer ſtay,</l>
+               <l>I pray you buy them, I muſt hence away.</l>
+            </lg>
+            <lg>
+               <l>Then after that unto this jolly <hi>Fayre,</hi>
+               </l>
+               <l>A little <hi>Wren,</hi> came flying through the ayre,</l>
+               <l>And on his back betwixt his wings be bore,</l>
+               <l>A minſter ſtuft, with <hi>Croſſes,</hi> 
+                  <note n="(ſ)" place="margin">
+                     <hi>Pope</hi> Sixtus <hi>the 2. firſt or<g ref="char:EOLhyphen"/>dained Altars.</hi>
+                  </note> 
+                  <hi>Altars</hi> ſtore:</l>
+               <l>With ſacred <note n="(t)" place="margin">Pius <hi>the firſt brought in Fonts, Anno</hi> 147,</note> 
+                  <hi>Fonts,</hi> and rare guilt <hi>Cherubims,</hi>
+               </l>
+               <l>And bellowing <hi>Organs</hi> chanting curious <hi>Hymnes;</hi>
+               </l>
+               <l>The hallow'd Hoſt, dum <hi>Prieſts</hi> and <hi>ſinging boyes,</hi>
+               </l>
+               <l>With Antick Cringers, and a thouſand toyes:</l>
+               <l>Thus then this mighty Wren, unto the <hi>Fayre,</hi>
+               </l>
+               <l>Brought his <hi>Cathedrall</hi> pack, thus ſtuft with w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re,</l>
+               <l>The door's wide-op't, there thouſands came to ſee,</l>
+               <l>The <hi>Romiſh</hi> Reliques of the Hierarchie;</l>
+               <l>Where all w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et to ſale, and at low rate,</l>
+               <l>Becauſe they gan to wax quite out of date:</l>
+               <l>Buy my high <hi>Altars,</hi> he lifts up his voice,</l>
+               <l>All ſorts of <hi>Maſſe Bookes,</hi> here you may have choice<g ref="char:punc">▪</g>
+               </l>
+               <l>Here's <note n="(u)" place="margin">Durandus <hi>ſaith that the ſound of Bells cauſe tem<g ref="char:EOLhyphen"/>peſts, thunderings, Lightnings, Winds, wicked Spirits, and Di<g ref="char:EOLhyphen"/>veli to craſe.</hi>
+                  </note> bells <hi>baptiz'd,</hi> will make a dainty found,</l>
+               <l>Pray if you pleaſe ſtep in and ring them round:</l>
+            </lg>
+            <lg>
+               <l>Then after that were ſeene a <hi>Regiment,</hi>
+               </l>
+               <l>Of <hi>Hell-borne Locuſts</hi> from <hi>C<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> ſent,</l>
+               <l>To draw a mighty Cart wherein were brought<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <note n="(x)" place="margin">
+                     <hi>Plurality of Be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>efices was condemned at a Counſell, held at</hi> Lyons <hi>by 600. Biſhops, and 1000. Prelates, Anno 1271. Notwithſtanding continued in</hi> England <hi>till the yeare</hi> 1642.</note> 
+                  <hi>Plurality</hi> of Churches to be bought:</l>
+               <l>Then came another if he had beene there,</l>
+               <l>Would ſcar'd the <hi>Devills</hi> from th' <hi>Infernall Spheare.</hi>
+               </l>
+               <l>For ſtore of <hi>Croſſes</hi> on his back he bore,</l>
+               <l>
+                  <hi>Char<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>,</hi> and <hi>Cheap-ſide</hi> and a thouſand more,</l>
+               <l>And cri'd what though they be condemn'd of <hi>Treaſon?</hi>
+               </l>
+               <l>Come buy them quickly while they are in ſeaſon:</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:112088:7"/>
+               <l>Then cri'd an other, Sir, what will you buy?</l>
+               <l>J pray ſtep in Sir, do not ſo paſſe by.</l>
+               <l>Here's a <hi>Cathedra,</hi> once Saint <hi>Peterschair<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi>
+               </l>
+               <l>The rareſt thing to buy in <hi>Lambeth-fayre,</hi>
+               </l>
+               <l>The candid <note n="(w)" place="margin">
+                     <hi>under Pope</hi> Adrian <hi>at a Sy<g ref="char:EOLhyphen"/>nod at</hi> Franck<g ref="char:EOLhyphen"/>ford; 796.</note> Surpleſſe with the Wedding <hi>Ringes:</hi>
+               </l>
+               <l>Pictures for Bibles, and ſuch pretty things:</l>
+               <l>Here's the late <note n="(x)" place="margin">
+                     <hi>Made by the Convocat. in</hi> England <hi>An.</hi> 1640.</note> 
+                  <hi>Canons,</hi> and the new found <hi>Oath:</hi>
+               </l>
+               <l>To ſell <hi>Et c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tera</hi> J am very loath:</l>
+               <l>You formerly have heard by true Relation</l>
+               <l>Theſe are the toyes wee made i'th' <hi>convocation:</hi>
+               </l>
+               <l>
+                  <hi>Oath ex Officio,</hi> here if you will buy:</l>
+               <l>Or <note n="(y)" place="margin">
+                     <hi>Put down in</hi> England, <hi>Anno</hi> 1641.</note> 
+                  <hi>High commiſſion,</hi> take it preſently.</l>
+               <l>Here's <note n="(z)" place="margin">Calixtus <hi>ordained them 4. times in the yeare Anno</hi> 208.</note> 
+                  <hi>Ember weekes</hi> with thin-chapt <hi>Jack a lent,</hi>
+               </l>
+               <l>To helpe you at a pinch when all is ſpent:</l>
+               <l>Here's <note n="(a)" place="margin">
+                     <hi>brought in by ſeverall Popes. Eaſter day by Pope</hi> Pius 1. <hi>Anno 147. Midſommer day by</hi> Silveſter 1. <hi>Anno 315. Feaſt of</hi> All Saints <hi>by</hi> Boni<g ref="char:EOLhyphen"/>face, 4. <hi>Anno 606. Candle<g ref="char:EOLhyphen"/>mas, by Pope</hi> Swineſnout, A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 684.</note> 
+                  <hi>Holy Dayes</hi> to ſport the time away:</l>
+               <l>Or Booke of Paſtimes for the <hi>Sabbath Day:</hi>
+               </l>
+               <l>Here's <hi>Deanes</hi> and <hi>Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bends</hi> and the filthy Neſt</l>
+               <l>Of <hi>Purſevants, Promoters,</hi> and the reſt,</l>
+               <l>
+                  <hi>Chancelours, Officialls, Surrogates,</hi> and all</l>
+               <l>The lofty <hi>Courtiers</hi> of <hi>Commiſſion Hall.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Come <hi>Clergy</hi> Chapmen, to your <hi>Hierarchie,</hi>
+               </l>
+               <l>Here's excellent ware, as good as ere you ſee;</l>
+               <l>
+                  <hi>Iure Divino,</hi> that is become our Doome,</l>
+               <l>Wee'l ſel't for Warfage to the Coaſt of <hi>Room,</hi>
+               </l>
+               <l>
+                  <hi>Burialls,</hi> and <hi>Churchings,</hi> we have wondrous ſtore,</l>
+               <l>Vpon my word, they all came from the <hi>VVhore;</hi>
+               </l>
+               <l>Then next to him, a fiery fat guts fell.</l>
+               <l>Brought ſix and twenty <hi>Biſhopricks</hi> to ſell:</l>
+               <l>With gags and whips, and Priſons for all thoſe</l>
+               <l>That ſhould their curſed Hierarchie oppoſe,</l>
+               <l>With catch him <hi>P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vant,</hi> take him to the <hi>Iayle,</hi>
+               </l>
+               <l>There let him lye without <hi>Mainpriſe</hi> or <hi>Baile,</hi>
+               </l>
+               <l>'Ere he get from us, wee will make him ſee</l>
+               <l>Experimentally, we <hi>Biſhops</hi> bee;</l>
+               <l>Our Courts and <hi>Iuriſdictions</hi> are at ſale:</l>
+               <l>Come buy them quickly, 'ere they be too Hale.</l>
+            </lg>
+            <lg>
+               <l>An other <hi>Biſhop,</hi> with a <hi>Box</hi> did ride,</l>
+               <l>And with extended voyce he lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dly cri'd,</l>
+               <l>To Schollars all that <hi>Miniſters</hi> would be,</l>
+               <l>Come hither, buy the <hi>Holy Ghoſt</hi> of me;</l>
+               <l>
+                  <pb facs="tcp:112088:8"/>But <hi>Simon Magus</hi> he was in the ground,</l>
+               <l>And none to buy the <hi>Holy Ghoſt</hi> was found.</l>
+            </lg>
+            <lg>
+               <l>Another <hi>Biſhop</hi> lifting up his voyce,</l>
+               <l>Cri'd out amaine, of Livings I have choice,</l>
+               <l>I'le ſell you two or th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee, if that you pleaſe,</l>
+               <l>So you'le have money comming in with eaſe,</l>
+               <l>If that to Preach your ſelfe you can't indu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>Get ſome poore <hi>Iourney-man</hi> to ſerve your <hi>Cure;</hi>
+               </l>
+               <l>You'l quickly light on ſuch a one I trow,</l>
+               <l>We have made more, then how to live doe know,</l>
+               <l>
+                  <hi>Wax (d) Candells, Tapors,</hi> another cries and calls,<note place="margin">
+                     <hi>Brought into the Church by</hi> Gre<g ref="char:EOLhyphen"/>gory 1. <hi>Anno</hi> 590</note>
+               </l>
+               <l>Theſe brought I with me from <hi>Cathedrall Paules,</hi>
+               </l>
+               <l>They'l ſcare the Divell, and put him unto flight,</l>
+               <l>When he perceives a conſecrated light;</l>
+               <l>When we at <hi>Mattens,</hi> and at <hi>Even-ſong</hi> were,</l>
+               <l>We had them by us then, devoyde of feare;</l>
+               <l>They'l bring delight unto your eyes and noſe,</l>
+               <l>They burne ſo cleere and ſmell ſo like a Roſe,</l>
+               <l>Or elſe you may on whom you will beſtow it,</l>
+               <l>They'l joy to thinke a <hi>Biſhop</hi> once did owe it.</l>
+            </lg>
+            <lg>
+               <l>Come hither Friend, another loud doth call,</l>
+               <l>I'le ſell you here my <hi>Common-Prayer-Bookes</hi> all,</l>
+               <l>Sir view this ſame, and take it in your hand,</l>
+               <l>This <hi>Booke</hi> but lately no man durſt withſtand,</l>
+               <l>For if he did, and wee thereof did heare,</l>
+               <l>Wee forthwith made him a Commiſſioner,</l>
+               <l>And if he chan'd appearance for to miſſe,</l>
+               <l>To <hi>Limbo Patrum</hi> he was ſent for this:</l>
+               <l>And if he did not us ſome mony give,</l>
+               <l>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that <hi>Abyſſe</hi> we doom'd him ſtill to live.</l>
+               <l>Money my hearts another loud doth call;</l>
+               <l>J ſee J am not now in Lambeth Hall,</l>
+               <l>No ſooner J from Dinner then was riſen,</l>
+               <l>Men brought me chinke to free them out of Priſon.</l>
+            </lg>
+            <lg>
+               <l>J'm broake, I'm broake, another did ſay,</l>
+               <l>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uy my Hoods, I can no longer ſtay:</l>
+               <l>What meane you Sirs? the day is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lmoſt ſpent,</l>
+               <l>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me buy my Trinkets all incontinent:</l>
+               <l>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me thither fri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, the price is very ſmall,</l>
+               <l>I<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll my <hi>Coate,</hi> i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is Canonicall;</l>
+               <l>
+                  <pb facs="tcp:112088:8"/>Come buy this <hi>Miter</hi> Sir, if you be able,</l>
+               <l>The vertue of it is ineſtimable,</l>
+               <l>Buy't Sir, and weare it, and then ſoon I hope,</l>
+               <l>You will riſe higher and become a <hi>Pope;</hi>
+               </l>
+               <l>I tell you truely had not fortune left me</l>
+               <l>I would have kept it untill Death bereft me,</l>
+            </lg>
+            <lg>
+               <l>An other <hi>Biſhop</hi> he a Pack brought in,</l>
+               <l>The which was ſtuft with <hi>Licences</hi> toth'brim,</l>
+               <l>And preſently he cryeth out with fury,</l>
+               <l>Here's <hi>Licences</hi> to Preach, to Church and bury:</l>
+               <l>If Wedding's out and you'r diſpoſ'd to Wed,</l>
+               <l>Come buy a <hi>Licence</hi> and away to Bed.</l>
+               <l>It now beginning to grow towards night,<note place="margin">
+                     <hi>Marriage made a Church action by</hi> Evariſtu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </note>
+               </l>
+               <l>Comes a grave <hi>Doctor</hi> running in with might,</l>
+               <l>His courage ſtout was ſomething now abated,</l>
+               <l>He brings his golden <hi>Slippers,</hi> conſecrated,</l>
+               <l>And crys, come buy theſe <hi>Slippers</hi> here of mine,</l>
+               <l>They are emboſſ'd with <hi>Holines Divine;</hi>
+               </l>
+               <l>They will in all your wayes preſerve you ſound,</l>
+               <l>And with them you may tread on holy Ground,</l>
+               <l>They'r fild with <hi>Holineſſe</hi> within, and round about,</l>
+               <l>Here looke upon them, ſee how't breaketh out.</l>
+            </lg>
+            <lg>
+               <l>What all paſſe by? 'tis ſtrange time turns her wheell,</l>
+               <l>And bends her borw upon us, that we feell,</l>
+               <l>No <hi>handſaile</hi> yet, our <hi>ware's</hi> becharmed ſure,</l>
+               <l>And (like our ſelves) there's none will it indure,</l>
+               <l>It's doom'd to diſmall fate, deſpiſ'd and ſcorn'd,</l>
+               <l>Though nev'r ſo coſtly, or ſo much adorn'd;</l>
+               <l>Here's <hi>owne venale,</hi> yet no money flies,</l>
+               <l>Our <hi>Ware's</hi> dog-cheape, and thus our credit dies:</l>
+               <l>For ſuch a <hi>Fayre</hi> I never did behold,</l>
+               <l>We bring our <hi>Ware,</hi> but nothing can be ſold:</l>
+               <l>I wonder ſaid one, what was our intent,</l>
+               <l>To make our <hi>Fayre</hi> thus at the <hi>Parliament.</hi>
+               </l>
+               <l>For we are mocked here by ſawcy Jacks,</l>
+               <l>They bid the <hi>Pedl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs</hi> to put up their <hi>Packs:</hi>
+               </l>
+               <l>We thought our <hi>ware</hi> would ſould at ſuch a price,</l>
+               <l>And of our hands been vented in a trice,</l>
+               <l>That this laſt Act upon the <hi>Engliſh</hi> Stage</l>
+               <l>Would 'forded money for our <hi>Pilgrimage.</hi>
+               </l>
+               <l>To <hi>Babylon the Great:</hi> How'ere we dream'd no leſſe</l>
+               <l>Then <hi>Ranſom</hi> for his 'priſoned <hi>Holineſſe:</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:112088:9"/>But he, nor we, muſt in this <hi>Lambeth Faire</hi>
+               </l>
+               <l>Get helpe I ſee by this our <hi>Popiſh Ware.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Whilſt thus the <hi>Biſhops</hi> there, their <hi>guts,</hi> and they,</l>
+               <l>Cald to their <hi>Cuſtomers</hi> to come away:</l>
+               <l>A <hi>Meſſenger</hi> came running through the croud,</l>
+               <l>And to the <hi>Biſhops</hi> thus he ſpake aloud,</l>
+               <l>Away to <hi>Rome</hi> or <hi>T<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> chuſe you whether,</l>
+               <l>I know your ſhooes are made of <hi>running leather:</hi>
+               </l>
+               <l>For all the Lawes oth' Land, you have out-ruo,</l>
+               <l>And I come here to tell you what is done,</l>
+               <l>The <hi>Parliament</hi> hath caſt you from their <hi>Spheare,</hi>
+               </l>
+               <l>For <hi>dire Aſpects</hi> that yee have cauſed there,</l>
+               <l>Ye are devoted and from thence are hurl'd</l>
+               <l>And lie like Starres ſhot on the lower world;</l>
+               <l>Your ware's not worth a fart for all your cogging,</l>
+               <l>See where the Hangman comes away, be jogging;</l>
+               <l>Then comes young <hi>Gregory</hi> with an Hempen Broome,</l>
+               <l>To ſweep theſe Vermin to the Sea of <hi>Rome;</hi>
+               </l>
+               <l>A Broome ſaid I? my tongue it ſurely falters,</l>
+               <l>'Twas <hi>Tiburne</hi> hung with ſix and twentie Halters,</l>
+               <l>Which ſcar'd them all to ſee that hard miſhap,</l>
+               <l>They'd rather ten times ſeen a Cornerd Cap.</l>
+               <l>With that the <hi>Biſhops</hi> cri'd we are undone,</l>
+               <l>we are ſo fatt, alas we cannot run.</l>
+               <l>But unto them a luſtie Porter ſtruts,</l>
+               <l>Sirs here's a Basket that will hold your Guts;</l>
+               <l>Take my adviſe, (the knave hath Halters plentie)</l>
+               <l>You'l run the better when your bellie's emptie.</l>
+               <l>Alas cry'd they, is all-our labour loſſe?</l>
+               <l>Others get money, we have but the Croſſe!</l>
+               <l>For we are croſſed in our expedition,</l>
+               <l>And flie we muſt, for all our late Petition,</l>
+               <l>Yet notwithſtanding herein lies our hope,</l>
+               <l>We ſhall be entertained by the <hi>Pope.</hi>
+               </l>
+               <l>With that like men of Sences quite bereft,</l>
+               <l>They trold away and all their trinckets left,</l>
+               <l>A friend of mine to me did then repaire,</l>
+               <l>Deſiring me, to pen this famous <hi>Fayr,</hi>
+               </l>
+               <l>Which I have done<g ref="char:punc">▪</g> and have it here to ſell;</l>
+               <l>Come buy the <hi>Fayre</hi> of me, and ſo farewell.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112088:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
